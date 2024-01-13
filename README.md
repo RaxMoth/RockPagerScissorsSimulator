@@ -1,4 +1,2 @@
-﻿# RockPagerScissorsSimulator
-A game that brings the rules of paper scissors to a playing field. When the objects touch, they become the object that wins in paper scissors! It is made with Python and Pygame.
-
+﻿# I saw this tweet(https://lnkd.in/eNsaKmYA) and decided to code this little fun game myself.
 Have fun!
